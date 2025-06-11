@@ -1,3 +1,3 @@
-# Amino Backup Tool
+![Titre](media/title.png)
 
 Description à venir...
