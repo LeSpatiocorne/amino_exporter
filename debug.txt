@@ -1,0 +1,299 @@
+📚 Toutes les librairies sont disponibles
+content.js:1392 🔧 Conservation HTML: DIV, classes="post-content-toggle"
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="center bolder underline"
+content.js:1403 → Style gras ajouté via classe
+content.js:1413 → Style souligné ajouté via classe
+content.js:1418 → Style centré ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: font-weight: bold !important; text-decoration: underline !important; text-align: center !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: DIV, classes="image-container"
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: DIV, classes="aspect-scale"
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: IMG, classes="post-img"
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="center bolder underline"
+content.js:1403 → Style gras ajouté via classe
+content.js:1413 → Style souligné ajouté via classe
+content.js:1418 → Style centré ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: font-weight: bold !important; text-decoration: underline !important; text-align: center !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: DIV, classes="image-container"
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: DIV, classes="aspect-scale"
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: IMG, classes="post-img"
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="center bolder"
+content.js:1403 → Style gras ajouté via classe
+content.js:1418 → Style centré ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: font-weight: bold !important; text-align: center !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="center bolder"
+content.js:1403 → Style gras ajouté via classe
+content.js:1418 → Style centré ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: font-weight: bold !important; text-align: center !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: A, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="italic bolder"
+content.js:1403 → Style gras ajouté via classe
+content.js:1408 → Style italique ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: font-weight: bold !important; font-style: italic !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="italic bolder"
+content.js:1403 → Style gras ajouté via classe
+content.js:1408 → Style italique ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: font-weight: bold !important; font-style: italic !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="italic bolder"
+content.js:1403 → Style gras ajouté via classe
+content.js:1408 → Style italique ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: font-weight: bold !important; font-style: italic !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="italic bolder"
+content.js:1403 → Style gras ajouté via classe
+content.js:1408 → Style italique ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: font-weight: bold !important; font-style: italic !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes="center underline"
+content.js:1413 → Style souligné ajouté via classe
+content.js:1418 → Style centré ajouté via classe
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: text-decoration: underline !important; text-align: center !important; color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1392 🔧 Conservation HTML: P, classes=""
+content.js:1456 → Couleur ajoutée: 
+content.js:1470 → Taille de police ajoutée: 
+content.js:1478 → Styles appliqués: color: ; font-size: 
+content.js:1494 ✅ Conservation HTML terminée
+content.js:1757 🔍 === DEBUG PDF PROCESS ===
+content.js:1761 📄 jsPDF disponible: true
+content.js:1766 📄 Test PDF créé avec succès
+content.js:1767 📄 Version jsPDF: inconnue
+content.js:1768 📄 addImage disponible: true
+content.js:1769 📄 splitTextToSize disponible: true
+content.js:1775 📝 Test splitTextToSize: ['Test de rendu de texte simple']
+content.js:1783 🎯 Élément à analyser: <div class=​"post-content-toggle">​…​</div>​
+content.js:1784 🎯 Enfants trouvés: 37
+content.js:1785 🎯 Texte total: 1815 caractères
+content.js:1789 📝 Enfant 1: {tagName: 'P', textContent: "Hellow ! Depuis quelques années, je code pas mal e… m'arrive également de me faire des outils pou...", textLength: 136}
+content.js:1789 📝 Enfant 2: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 3: {tagName: 'P', textContent: "Ayant repris un peu l'usage d'amino, je suis confr… au fameux souci des 2000 caractères, plus la ...", textLength: 283}
+content.js:1789 📝 Enfant 4: {tagName: 'P', textContent: 'Je partage donc mon éditeur dans le cas où vous en auriez également la nécessité également.', textLength: 91}
+content.js:1789 📝 Enfant 5: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 6: {tagName: 'P', textContent: 'Affichage mobile', textLength: 16}
+content.js:1789 📝 Enfant 7: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 8: {tagName: 'DIV', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 9: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 10: {tagName: 'P', textContent: 'Affichage Ordinateur', textLength: 20}
+content.js:1789 📝 Enfant 11: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 12: {tagName: 'DIV', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 13: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 14: {tagName: 'P', textContent: "Les balises sont celles d'amino directement, le co…ur est en bas de la zone édition. Créer un nou...", textLength: 188}
+content.js:1789 📝 Enfant 15: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 16: {tagName: 'P', textContent: 'Sans plus attendre le lien du site :', textLength: 36}
+content.js:1789 📝 Enfant 17: {tagName: 'P', textContent: 'Amino Editor', textLength: 12}
+content.js:1789 📝 Enfant 18: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 19: {tagName: 'P', textContent: "✓Aucune donnée n'est conservée", textLength: 30}
+content.js:1789 📝 Enfant 20: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 21: {tagName: 'P', textContent: "l'outil utilise le cache local de votre navigateur…r éviter la suppression du texte entre deux re...", textLength: 132}
+content.js:1789 📝 Enfant 22: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 23: {tagName: 'P', textContent: '✓ Pas de cookie', textLength: 15}
+content.js:1789 📝 Enfant 24: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 25: {tagName: 'P', textContent: "C'est un utilitaire avant tout pour mon propre con…, je n'ai pas besoin de données d'utilisateurs...", textLength: 242}
+content.js:1789 📝 Enfant 26: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 27: {tagName: 'P', textContent: '✓ Tout le code est sur la page', textLength: 30}
+content.js:1789 📝 Enfant 28: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 29: {tagName: 'P', textContent: "Si vous avez des connaissances vous pouvez tout li…ans l'inspecteur et si vous voulez l'utiliser ...", textLength: 272}
+content.js:1789 📝 Enfant 30: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 31: {tagName: 'P', textContent: '✓ Pas de pub !', textLength: 14}
+content.js:1789 📝 Enfant 32: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 33: {tagName: 'P', textContent: "Encore une fois, j'ai fait ça en 1h pour me facili…la vie, je n'ai pas l'intention de me faire de...", textLength: 120}
+content.js:1789 📝 Enfant 34: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 35: {tagName: 'P', textContent: 'Update 28/05/2025 - 23:08', textLength: 25}
+content.js:1789 📝 Enfant 36: {tagName: 'P', textContent: '', textLength: 0}
+content.js:1789 📝 Enfant 37: {tagName: 'P', textContent: "J'avais mis en ligne un version précédente de l'ou… Maintenant les extensions navigateur comme la...", textLength: 148}
+content.js:1798 🖼️ Images trouvées: 2
+content.js:1801 🖼️ Image 1: {src: 'https://pm1.aminoapps.com/9399/226a6d4d630aad628fb...', complete: true, naturalWidth: 591, naturalHeight: 1024, width: 596, …}
+content.js:1801 🖼️ Image 2: {src: 'https://pm1.aminoapps.com/9399/99e0faa3967f1476b97...', complete: true, naturalWidth: 1024, naturalHeight: 640, width: 596, …}
+content.js:1811 🔍 === FIN DEBUG ===
+content.js:1613 Liens extraits: 1
+content.js:325 Contenu divisé en 3 pages
+content.js:709 📝 Rendu texte: "Hellow ! Depuis quelques années, je code pas mal e..."
+content.js:717 ✅ Texte rendu: 2 lignes, hauteur: 12mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "Ayant repris un peu l'usage d'amino, je suis confr..."
+content.js:717 ✅ Texte rendu: 3 lignes, hauteur: 18mm
+content.js:709 📝 Rendu texte: "Je partage donc mon éditeur dans le cas où vous en..."
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "Affichage mobile"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+2content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "Affichage Ordinateur"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+2content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "Les balises sont celles d'amino directement, le co..."
+content.js:717 ✅ Texte rendu: 2 lignes, hauteur: 12mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "Sans plus attendre le lien du site :"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+content.js:709 📝 Rendu texte: "Amino Editor"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "✓Aucune donnée n'est conservée"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "l'outil utilise le cache local de votre navigateur..."
+content.js:717 ✅ Texte rendu: 2 lignes, hauteur: 12mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "✓ Pas de cookie"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "C'est un utilitaire avant tout pour mon propre con..."
+content.js:717 ✅ Texte rendu: 3 lignes, hauteur: 18mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "✓ Tout le code est sur la page"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "Si vous avez des connaissances vous pouvez tout li..."
+content.js:717 ✅ Texte rendu: 3 lignes, hauteur: 18mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "✓ Pas de pub !"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "Encore une fois, j'ai fait ça en 1h pour me facili..."
+content.js:717 ✅ Texte rendu: 2 lignes, hauteur: 12mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "Update 28/05/2025 - 23:08"
+content.js:717 ✅ Texte rendu: 1 lignes, hauteur: 6mm
+content.js:709 📝 Rendu texte: ""
+content.js:709 📝 Rendu texte: "J'avais mis en ligne un version précédente de l'ou..."
+content.js:717 ✅ Texte rendu: 2 lignes, hauteur: 12mm
+content.js:1065 1 liens détectés sur 3 pages
