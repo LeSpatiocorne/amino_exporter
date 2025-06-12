@@ -1,6 +1,6 @@
 ![Titre](media/title.png)
 
-Cette extension est conçue pour les navigateur tourant sous chromium et n'est pas enpaquetée, vous allez donc devoir l'installer manuellement.
+Cette extension est conçue pour les navigateurs tournant sous chromium et n'est pas enpaquetée, vous allez donc devoir l'installer manuellement.
 Les navigateur chromium sont tous les navigateurs basé sur le même moteur que Google Chrome, c'est le cas de pas mal d'entre-eux comme ceux-ci :
 ![chromium](media/chromium.png)
 
