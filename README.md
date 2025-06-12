@@ -10,14 +10,23 @@ Partie I - Téléchargement et extraction
 ![releases](media/release_open.png)
 2. Téléchargez le fichier zip de la dernière version  
 ![zip_dl](media/zip_dl.png)
-3. Extrayez le dossier où vous voulez sur votre ordinateur (de préférence quelque part où vous saurez le retrouver)
+3. Extrayez le dossier où vous voulez sur votre ordinateur (de préférence quelque part où vous saurez le retrouver)  
+![extract](media/extract.png)
 
 Partie II - Installation
-1. Rendez vous dans votre navigateur et repérez le gestionnaire d'extension
-2. Reperez le petit bouton "activer le mode développeur" et cochez le pour faire apparaitre des nouveaux boutons.
-3. Cliquez sur "Charger l'extension non empaquetée" et naviguez jusqu'au dossier que vous avez extrait précédément
-4. Sélectionnez le dossier et cliquer sur sélectionner un dossier
+1. Rendez vous dans votre navigateur et repérez le gestionnaire d'extension ![ext_icon](media/extension_icon.png)
+  Si vous ne trouvez pas du tout vous pouvez aussi essayer l'url <navigateur>://extensions :
+    * brave://extensions/
+    * chrome://extensions/
+    * arc://extensions/
+2. Repèrez le petit bouton "activer le mode développeur" et cochez le pour faire apparaitre des nouveaux boutons.  
+![dev](media/mode_dev.png)
+3. Cliquez sur "Charger l'extension non empaquetée" et naviguez jusqu'au dossier que vous avez extrait précédément  
+
+4. Sélectionnez le dossier et cliquer sur sélectionner un dossier  
+![selection_extension](media/selection_extension.png)
 
 Installation terminée ! 🎉
+![installée](media/installée.png)
 
 Description en cour d'écriture...
