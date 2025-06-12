@@ -22,11 +22,16 @@ Partie II - Installation
 2. Repèrez le petit bouton "activer le mode développeur" et cochez le pour faire apparaitre des nouveaux boutons.  
 ![dev](media/mode_dev.png)
 3. Cliquez sur "Charger l'extension non empaquetée" et naviguez jusqu'au dossier que vous avez extrait précédément  
-
+![charger_ext](media/charger_ext.png)
 4. Sélectionnez le dossier et cliquer sur sélectionner un dossier  
 ![selection_extension](media/selection_extension.png)
 
-Installation terminée ! 🎉
+# Installation terminée ! 🎉  
 ![installée](media/installée.png)
 
-Description en cour d'écriture...
+Vous pouvez maintenant utiliser l'extension pour télécharger un post ou wiki amino. 
+Pensez à l'épingler si vous voulez y avoir accès rapidement !  
+![pin](media/pin.png)
+
+# Apperçu
+![app_preview](media/app_preview.png)
