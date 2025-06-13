@@ -4,6 +4,9 @@ Cette extension est conçue pour les navigateurs tournant sous chromium et n'est
 Les navigateur chromium sont tous les navigateurs basé sur le même moteur que Google Chrome, c'est le cas de pas mal d'entre-eux comme ceux-ci :
 ![chromium](media/chromium.png)
 
+### Bug connus :
+https://github.com/LeSpatiocorne/amino_exporter/issues
+
 # Guide d'installation
 Partie I - Téléchargement et extraction
 1. Allez dans les "releases"  
