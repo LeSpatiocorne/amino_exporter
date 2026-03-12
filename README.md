@@ -1,3 +1,5 @@
+Amino est officiellement mort ! Ce projet ne sera donc pas maintenu.
+
 ![Titre](media/title.png)
 
 Cette extension est conçue pour les navigateurs tournant sous chromium et n'est pas enpaquetée, vous allez donc devoir l'installer manuellement.
